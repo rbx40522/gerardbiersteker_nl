@@ -850,3 +850,16 @@ a:focus {
 .br list {
   padding-bottom: 1%;
 }
+
+a.mail:link, a.mail:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.mail:hover, a.mail:active {
+  background-color: red;
+}
