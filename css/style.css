@@ -863,3 +863,16 @@ a.mail:link, a.mail:visited {
 a.mail:hover, a.mail:active {
   background-color: red;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 10px;
+  padding-top: 10px;
+ 
+}
+
+li {
+  
+   padding-bottom: 5px
+}
